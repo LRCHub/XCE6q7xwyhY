@@ -1,0 +1,75 @@
+# ENHYPEN – Bills
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sign
+갑작스레 재촉하는
+bills 위로 sign
+눈물로야 배우게 된 right price
+I don’t wanna let you go
+돌이킬 수는 없을까 no time
+갚아야 할 사랑 위로
+쌓여가는 time
+점점 비싸져만 가 이별의 price
+I just wanna let it go
+Why don’t you just let me go,
+me go
+적당했던 끝인사
+밉지 않은 마지막
+우린 아마
+이별 중에 가장
+좋은 예가 될 것 같아 right
+달콤했던 해방감
+숙제를 다 끝낸 맘
+즐거웠어 한동안
+어느 날 내게 꽂힌 invoice
+내 몫이 된 아픔들
+분명 다 지불했다 생각했는데
+it’s not paid
+Sign
+갑작스레 재촉하는
+bills 위로 sign
+눈물로야 배우게 된 right price
+I don’t wanna let you go
+돌이킬 수는 없을까 no time
+갚아야 할 사랑 위로
+쌓여가는 time
+점점 비싸져만 가 이별의 price
+I just wanna let it go
+Why don’t you just let me go,
+me go
+연체라도 돼버린 듯
+사랑할 때보다 훨씬 큰
+값을 청구하는 이별 후 yeah
+너와의 지난 대화
+한없이 뒤지는 밤
+네 흔적들을 쫓아 all night
+눈덩이처럼 커진 외로움
+점점 불어나는 맘
+얼마나 아파해야
+다 갚을 수 있을까
+Sign
+갑작스레 재촉하는
+bills 위로 sign
+눈물로야 배우게 된 right price
+I don’t wanna let you go
+돌이킬 수는 없을까 no time
+갚아야 할 사랑 위로
+쌓여가는 time
+점점 비싸져만 가 이별의 price
+I just wanna let it go
+Why don’t you just let me go
+(Have to pay) 찢어진 맘
+(Have to pay) 이별의 값
+(Have to pay) 내 눈물로
+이걸로는 부족한 걸
+Sign
+갑작스레 재촉하는
+bills 위로 sign
+눈물로야 배우게 된 right price
+I just wanna let it go
+Why don’t you just let me go,
+me go
+Let me go, just let me go baby
+```
