@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Bills",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-03-09T18:29:19.854083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BILLS PAID (feat. Latto & City Girls)",
+      "artist": "DJ Khaled feat. Latto & City Girls",
+      "has_synced": true,
+      "path": "select/01_BILLS_PAID_(feat._Latto_&_City_Girls)_DJ_Khaled_feat._Latto_&_City_Girls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BILLS PAID (feat. Latto & City Girls)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/02_BILLS_PAID_(feat._Latto_&_City_Girls)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Bills (feat. $NOT & Fenix Flexin)",
+      "artist": "DJ Scheme feat. $NOT & Fenix Flexin",
+      "has_synced": true,
+      "path": "select/03_Blue_Bills_(feat._$NOT_&_Fenix_Flexin)_DJ_Scheme_feat._$NOT_&_Fenix_Flexin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Bills",
+      "artist": "DJ Scheme",
+      "has_synced": true,
+      "path": "select/04_Blue_Bills_DJ_Scheme.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skills to Pay the Bills",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/05_Skills_to_Pay_the_Bills_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "200,000 (in counterfeit 50 dollar bills)",
+      "artist": "Citizen Cope",
+      "has_synced": true,
+      "path": "select/06_200,000_(in_counterfeit_50_dollar_bills)_Citizen_Cope.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bills, Bills, Bills",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/07_Bills,_Bills,_Bills_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bills",
+      "artist": "Lunchmoney Lewis",
+      "has_synced": true,
+      "path": "select/08_Bills_Lunchmoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bed To The Bills",
+      "artist": "Subtle",
+      "has_synced": false,
+      "path": "select/09_Bed_To_The_Bills_Subtle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dollar Bills (feat. Steve Lacy)",
+      "artist": "Syd feat. Steve Lacy",
+      "has_synced": true,
+      "path": "select/10_Dollar_Bills_(feat._Steve_Lacy)_Syd_feat._Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dollar Bills",
+      "artist": "SYD",
+      "has_synced": true,
+      "path": "select/11_Dollar_Bills_SYD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Million Dollar Bills",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/12_Million_Dollar_Bills_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Million Dollar Bills",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/13_Million_Dollar_Bills_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bills, Bills, Bills",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/14_Bills,_Bills,_Bills_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bills, Bills, Bills (Album Version)",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/15_Bills,_Bills,_Bills_(Album_Version)_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bills, Bills, Bills (Maurice's Xclusive Livegig Mix)",
+      "artist": "Destiny's Child",
+      "has_synced": false,
+      "path": "select/16_Bills,_Bills,_Bills_(Maurice's_Xclusive_Livegig_Mix)_Destiny's_Child.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pass The Mic (Pt. 2, Skills To Pay The Bills)",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/17_Pass_The_Mic_(Pt._2,_Skills_To_Pay_The_Bills)_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pass the Mic, Pt. 2: Skills to Pay the Bills",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/18_Pass_the_Mic,_Pt._2__Skills_to_Pay_the_Bills_Beastie_Boys.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bills",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Bills_ENHYPEN.txt"
+    }
+  ]
+}
